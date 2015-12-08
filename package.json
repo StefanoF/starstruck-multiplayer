@@ -1,0 +1,9 @@
+{
+  "name": "starstruck-multiplayer",
+  "main": "game.js",
+  "private": true,
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "0.9.16"
+  }
+}
